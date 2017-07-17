@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 292}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 104
+  controlID: 48
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 68
+  controlID: 12
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
     y: 0
     width: 1621
     height: 824
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -207,7 +207,7 @@ MonoBehaviour:
   m_MinSize: {x: 509, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 67
+  controlID: 11
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -289,14 +289,14 @@ MonoBehaviour:
     width: 1340
     height: 466
   m_SceneLighting: 1
-  lastFramingTime: 1783.215506637423
+  lastFramingTime: 620.4123409575293
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.0971508, y: 1.4666055, z: 0}
+    m_Target: {x: -1.5482208, y: 0.4931801, z: 0}
     speed: 2
-    m_Value: {x: -2.0971508, y: 1.4666055, z: 0}
+    m_Value: {x: -1.5482208, y: 0.4931801, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -323,9 +323,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 11.353967
+    m_Target: 11.547019
     speed: 2
-    m_Value: 11.353967
+    m_Value: 11.547019
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -358,8 +358,8 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 118
-    y: 168
+    x: 181
+    y: 155
     width: 1340
     height: 466
   m_MaximizeOnPlay: 0
@@ -460,10 +460,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 82
-    y: 122
+    x: 181
+    y: 155
     width: 1340
-    height: 593
+    height: 466
   m_ViewPositions:
     m_KeySerializationHelper: []
     m_ValueSerializationHelper: []
@@ -577,13 +577,13 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 74
-  m_LastProjectPath: D:\Unity\GameTeam
+  m_LastProjectPath: D:\Unity\action-puzzle\Unity_project
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 95}
     m_SelectedIDs: 12250000
     m_LastClickedID: 9490
-    m_ExpandedIDs: 00000000122500008e260000d6260000d8270000542800005628000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000001225000096260000de26000008270000e8270000642800006628000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -611,7 +611,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000122500008e260000d6260000d82700005428000056280000
+    m_ExpandedIDs: 000000001225000096260000de260000e82700006428000066280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -638,7 +638,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: ea1f0000641e00009aad00008cb7000072c4000054c300006e0800009a05000054060000245e0000e8390100282f01003c050000260500001aa3f8ff528b0000089500001e950000be9600004410f1ff5e1000002c0800009eddfffff21a0000980d00008c1e0000f60b0000c62700004c2600009c260000183cfcffac260000aa260000a2270000ca2700009e2d0000b2e4feff7a240000f6240000d623000066240000782400008e2400006c250000b42500009824000008250000162500002e250000b62400006030fdff74250000de23000098e0ffffe2230000c0560000e62300009a610000242700000624000002350000d66bfdff12b9feffba28000020260000842400008024000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -695,7 +695,7 @@ MonoBehaviour:
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
-    m_CachedPref: 281
+    m_CachedPref: 168
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}

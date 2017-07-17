@@ -30,4 +30,9 @@ public class Pawn_move : MonoBehaviour {
     {
         jumping = false;
     }
+
+    public void Death()
+    {
+        Debug.Log("success");
+    }
 }
