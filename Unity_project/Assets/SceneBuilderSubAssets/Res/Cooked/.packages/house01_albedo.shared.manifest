@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3243031592
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b038789ffd9f6f9c6c725f6cb715a98a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d068741ae817c9b5c92580f37de87e3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/SceneBuilderSubAssets/Demo/Scene/SampleObjects/House01/Materials/AO.mat
+- Assets/SceneBuilderSubAssets/Demo/Scene/SampleObjects/House01/House01_House_AlbedoTransparency.png
+Dependencies: []

@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 755803373
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab8dc7ff2fe41f67e1a48bc0e0e0695a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02689407958b3b99319348c541dc5079
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/SceneBuilderSubAssets/Demo/Scene/Prefab/Flat.prefab
+Dependencies:
+- D:/Unity/action-puzzle/Unity_project/Assets/SceneBuilderSubAssets/res/Cooked/.packages/flattexture.shared

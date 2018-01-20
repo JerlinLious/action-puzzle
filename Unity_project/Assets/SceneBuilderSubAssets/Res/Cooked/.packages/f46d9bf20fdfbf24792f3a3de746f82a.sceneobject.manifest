@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2043556520
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88d2ec483eb106e4fc9c7b28d4a5816a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02689407958b3b99319348c541dc5079
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/SceneBuilderSubAssets/Demo/Scene/Prefab/House01.prefab
+Dependencies:
+- D:/Unity/action-puzzle/Unity_project/Assets/SceneBuilderSubAssets/res/Cooked/.packages/house01_albedo.shared

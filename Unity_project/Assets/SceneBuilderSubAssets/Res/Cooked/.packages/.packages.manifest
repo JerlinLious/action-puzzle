@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1182690020
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: flattexture.shared
+      Dependencies: {}
+    Info_1:
+      Name: house01_albedo.shared
+      Dependencies: {}
+    Info_2:
+      Name: 2dc13ecf6c4588844903d6d52c075ff6.sceneobject
+      Dependencies: {}
+    Info_3:
+      Name: 5638a7637aa42514bbb6b99ab4dea7b0.sceneobject
+      Dependencies:
+        Dependency_0: flattexture.shared
+    Info_4:
+      Name: 5b07e0fc266470b41bb7c48b86928687.sceneobject
+      Dependencies: {}
+    Info_5:
+      Name: 6f5a58036eaf02d419300625ea3dbe35.sceneobject
+      Dependencies: {}
+    Info_6:
+      Name: f46d9bf20fdfbf24792f3a3de746f82a.sceneobject
+      Dependencies:
+        Dependency_0: house01_albedo.shared
+    Info_7:
+      Name: 0b66d1b7af708454ebc542da3fc8bad6.sceneobject
+      Dependencies: {}
+    Info_8:
+      Name: 180684a7cff7e40d6bd0d34566241501.sceneobject
+      Dependencies: {}
+    Info_9:
+      Name: 236990a96f57c4e39bc92e5f4f5e676c.sceneobject
+      Dependencies: {}
+    Info_10:
+      Name: 3ebd9d5e7068542218436e695cee4844.sceneobject
+      Dependencies: {}
+    Info_11:
+      Name: 88f492ec68f544f7cbc5c24f37a59560.sceneobject
+      Dependencies: {}
+    Info_12:
+      Name: dae9ce6725ba04dc48456ce85e9f8625.sceneobject
+      Dependencies: {}
+    Info_13:
+      Name: 8883d223b5e1545ab863be323ee0d555.sceneobject
+      Dependencies: {}
